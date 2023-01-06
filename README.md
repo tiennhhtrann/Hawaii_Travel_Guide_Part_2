@@ -6,8 +6,8 @@ Building off of our 3rd project that generated a map of Hawaii and drew layers f
 
 Data for this project was collected from sources such as the Center for Disease Control and Prevention (CDC), the Department of Transportation (DoT), and OpenWeather API. They can be found here:
 <https://catalog.data.gov/dataset/united-states-covid-19-cases-and-deaths-by-state-over-time>
-.
+|
 <https://www.transtats.bts.gov/AverageFare/>
-.
+|
 <http://api.openweathermap.org/data/2.5/weather?units=Imperial>
-.
+|
